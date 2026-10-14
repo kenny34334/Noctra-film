@@ -1,0 +1,6 @@
+{
+  "name": "Stink Films — United Kingdom",
+  "description": "NOCTRA Films is a global creative production company producing award-winning commercials, music videos, and film. Representing world-class directing talent across London, Paris, Berlin, Los Angeles, and Shanghai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
